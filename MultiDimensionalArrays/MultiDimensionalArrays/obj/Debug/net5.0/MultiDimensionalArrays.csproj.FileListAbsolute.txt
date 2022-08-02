@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.exe
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.deps.json
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.runtimeconfig.json
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.dll
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\bin\Debug\net5.0\MultiDimensionalArrays.pdb
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.AssemblyInfo.cs
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.dll
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\refint\MultiDimensionalArrays.dll
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.pdb
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\MultiDimensionalArrays.genruntimeconfig.cache
+C:\Users\emir7\source\repos\MultiDimensionalArrays\MultiDimensionalArrays\obj\Debug\net5.0\ref\MultiDimensionalArrays.dll

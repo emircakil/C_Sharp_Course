@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\bin\Debug\net5.0\MethodChallange.exe
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\bin\Debug\net5.0\MethodChallange.deps.json
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\bin\Debug\net5.0\MethodChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\bin\Debug\net5.0\MethodChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\bin\Debug\net5.0\MethodChallange.dll
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\bin\Debug\net5.0\MethodChallange.pdb
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.dll
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\refint\MethodChallange.dll
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.pdb
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\MethodChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\MethodChallange\MethodChallange\obj\Debug\net5.0\ref\MethodChallange.dll

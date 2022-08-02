@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\bin\Debug\net5.0\IfStatementChallange2.exe
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\bin\Debug\net5.0\IfStatementChallange2.deps.json
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\bin\Debug\net5.0\IfStatementChallange2.runtimeconfig.json
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\bin\Debug\net5.0\IfStatementChallange2.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\bin\Debug\net5.0\IfStatementChallange2.dll
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\bin\Debug\net5.0\IfStatementChallange2.pdb
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.AssemblyInfo.cs
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.dll
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\refint\IfStatementChallange2.dll
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.pdb
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\IfStatementChallange2.genruntimeconfig.cache
+C:\Users\emir7\source\repos\IfStatementChallange2\IfStatementChallange2\obj\Debug\net5.0\ref\IfStatementChallange2.dll

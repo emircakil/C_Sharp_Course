@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\bin\Debug\net5.0\DebuggingTests.exe
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\bin\Debug\net5.0\DebuggingTests.deps.json
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\bin\Debug\net5.0\DebuggingTests.runtimeconfig.json
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\bin\Debug\net5.0\DebuggingTests.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\bin\Debug\net5.0\DebuggingTests.dll
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\bin\Debug\net5.0\DebuggingTests.pdb
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.AssemblyInfo.cs
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.dll
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\refint\DebuggingTests.dll
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.pdb
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\DebuggingTests.genruntimeconfig.cache
+C:\Users\emir7\source\repos\DebuggingTests\DebuggingTests\obj\Debug\net5.0\ref\DebuggingTests.dll

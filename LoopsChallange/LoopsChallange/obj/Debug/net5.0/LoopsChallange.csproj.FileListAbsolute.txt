@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\bin\Debug\net5.0\LoopsChallange.exe
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\bin\Debug\net5.0\LoopsChallange.deps.json
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\bin\Debug\net5.0\LoopsChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\bin\Debug\net5.0\LoopsChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\bin\Debug\net5.0\LoopsChallange.dll
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\bin\Debug\net5.0\LoopsChallange.pdb
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.dll
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\refint\LoopsChallange.dll
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.pdb
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\LoopsChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\LoopsChallange\LoopsChallange\obj\Debug\net5.0\ref\LoopsChallange.dll

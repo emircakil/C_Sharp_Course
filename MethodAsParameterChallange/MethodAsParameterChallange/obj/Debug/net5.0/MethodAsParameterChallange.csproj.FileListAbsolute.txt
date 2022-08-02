@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\bin\Debug\net5.0\MethodAsParameterChallange.exe
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\bin\Debug\net5.0\MethodAsParameterChallange.deps.json
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\bin\Debug\net5.0\MethodAsParameterChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\bin\Debug\net5.0\MethodAsParameterChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\bin\Debug\net5.0\MethodAsParameterChallange.dll
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\bin\Debug\net5.0\MethodAsParameterChallange.pdb
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.dll
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\refint\MethodAsParameterChallange.dll
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.pdb
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\MethodAsParameterChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\MethodAsParameterChallange\MethodAsParameterChallange\obj\Debug\net5.0\ref\MethodAsParameterChallange.dll

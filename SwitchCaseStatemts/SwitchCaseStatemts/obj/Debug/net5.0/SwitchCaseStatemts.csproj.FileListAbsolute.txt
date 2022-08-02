@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\bin\Debug\net5.0\SwitchCaseStatemts.exe
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\bin\Debug\net5.0\SwitchCaseStatemts.deps.json
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\bin\Debug\net5.0\SwitchCaseStatemts.runtimeconfig.json
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\bin\Debug\net5.0\SwitchCaseStatemts.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\bin\Debug\net5.0\SwitchCaseStatemts.dll
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\bin\Debug\net5.0\SwitchCaseStatemts.pdb
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.AssemblyInfo.cs
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.dll
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\refint\SwitchCaseStatemts.dll
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.pdb
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\SwitchCaseStatemts.genruntimeconfig.cache
+C:\Users\emir7\source\repos\SwitchCaseStatemts\SwitchCaseStatemts\obj\Debug\net5.0\ref\SwitchCaseStatemts.dll

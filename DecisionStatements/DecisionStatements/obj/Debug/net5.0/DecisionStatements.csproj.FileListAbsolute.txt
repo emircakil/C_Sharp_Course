@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\bin\Debug\net5.0\DecisionStatements.exe
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\bin\Debug\net5.0\DecisionStatements.deps.json
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\bin\Debug\net5.0\DecisionStatements.runtimeconfig.json
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\bin\Debug\net5.0\DecisionStatements.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\bin\Debug\net5.0\DecisionStatements.dll
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\bin\Debug\net5.0\DecisionStatements.pdb
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.AssemblyInfo.cs
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.dll
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\refint\DecisionStatements.dll
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.pdb
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\DecisionStatements.genruntimeconfig.cache
+C:\Users\emir7\source\repos\DecisionStatements\DecisionStatements\obj\Debug\net5.0\ref\DecisionStatements.dll

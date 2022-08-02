@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\bin\Debug\net5.0\InheritanceChallange.exe
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\bin\Debug\net5.0\InheritanceChallange.deps.json
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\bin\Debug\net5.0\InheritanceChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\bin\Debug\net5.0\InheritanceChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\bin\Debug\net5.0\InheritanceChallange.dll
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\bin\Debug\net5.0\InheritanceChallange.pdb
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.dll
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\refint\InheritanceChallange.dll
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.pdb
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\InheritanceChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\InheritanceChallange\InheritanceChallange\obj\Debug\net5.0\ref\InheritanceChallange.dll

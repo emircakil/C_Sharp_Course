@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\bin\Debug\net5.0\OOP3membersAndFinalizers.exe
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\bin\Debug\net5.0\OOP3membersAndFinalizers.deps.json
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\bin\Debug\net5.0\OOP3membersAndFinalizers.runtimeconfig.json
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\bin\Debug\net5.0\OOP3membersAndFinalizers.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\bin\Debug\net5.0\OOP3membersAndFinalizers.dll
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\bin\Debug\net5.0\OOP3membersAndFinalizers.pdb
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.AssemblyInfo.cs
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.dll
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\refint\OOP3membersAndFinalizers.dll
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.pdb
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\OOP3membersAndFinalizers.genruntimeconfig.cache
+C:\Users\emir7\source\repos\OOP3membersAndFinalizers\OOP3membersAndFinalizers\obj\Debug\net5.0\ref\OOP3membersAndFinalizers.dll

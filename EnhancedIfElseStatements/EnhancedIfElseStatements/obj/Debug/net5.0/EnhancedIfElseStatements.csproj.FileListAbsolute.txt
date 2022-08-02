@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\bin\Debug\net5.0\EnhancedIfElseStatements.exe
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\bin\Debug\net5.0\EnhancedIfElseStatements.deps.json
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\bin\Debug\net5.0\EnhancedIfElseStatements.runtimeconfig.json
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\bin\Debug\net5.0\EnhancedIfElseStatements.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\bin\Debug\net5.0\EnhancedIfElseStatements.dll
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\bin\Debug\net5.0\EnhancedIfElseStatements.pdb
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.AssemblyInfo.cs
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.dll
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\refint\EnhancedIfElseStatements.dll
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.pdb
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\EnhancedIfElseStatements.genruntimeconfig.cache
+C:\Users\emir7\source\repos\EnhancedIfElseStatements\EnhancedIfElseStatements\obj\Debug\net5.0\ref\EnhancedIfElseStatements.dll

@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\bin\Debug\net5.0\ifStatementChallange.exe
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\bin\Debug\net5.0\ifStatementChallange.deps.json
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\bin\Debug\net5.0\ifStatementChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\bin\Debug\net5.0\ifStatementChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\bin\Debug\net5.0\ifStatementChallange.dll
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\bin\Debug\net5.0\ifStatementChallange.pdb
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.dll
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\refint\ifStatementChallange.dll
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.pdb
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ifStatementChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\ifStatementChallange\ifStatementChallange\obj\Debug\net5.0\ref\ifStatementChallange.dll

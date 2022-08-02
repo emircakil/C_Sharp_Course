@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\bin\Debug\net5.0\MethodsAndUserInput.exe
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\bin\Debug\net5.0\MethodsAndUserInput.deps.json
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\bin\Debug\net5.0\MethodsAndUserInput.runtimeconfig.json
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\bin\Debug\net5.0\MethodsAndUserInput.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\bin\Debug\net5.0\MethodsAndUserInput.dll
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\bin\Debug\net5.0\MethodsAndUserInput.pdb
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.AssemblyInfo.cs
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.dll
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\refint\MethodsAndUserInput.dll
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.pdb
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\MethodsAndUserInput.genruntimeconfig.cache
+C:\Users\emir7\source\repos\MethodsAndUserInput\MethodsAndUserInput\obj\Debug\net5.0\ref\MethodsAndUserInput.dll

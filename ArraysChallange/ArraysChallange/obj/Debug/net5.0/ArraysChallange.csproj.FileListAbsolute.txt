@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\bin\Debug\net5.0\ArraysChallange.exe
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\bin\Debug\net5.0\ArraysChallange.deps.json
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\bin\Debug\net5.0\ArraysChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\bin\Debug\net5.0\ArraysChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\bin\Debug\net5.0\ArraysChallange.dll
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\bin\Debug\net5.0\ArraysChallange.pdb
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.dll
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\refint\ArraysChallange.dll
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.pdb
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ArraysChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\ArraysChallange\ArraysChallange\obj\Debug\net5.0\ref\ArraysChallange.dll

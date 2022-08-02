@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\bin\Debug\net5.0\EnhancedIfElseChallange.exe
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\bin\Debug\net5.0\EnhancedIfElseChallange.deps.json
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\bin\Debug\net5.0\EnhancedIfElseChallange.runtimeconfig.json
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\bin\Debug\net5.0\EnhancedIfElseChallange.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\bin\Debug\net5.0\EnhancedIfElseChallange.dll
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\bin\Debug\net5.0\EnhancedIfElseChallange.pdb
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.AssemblyInfo.cs
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.dll
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\refint\EnhancedIfElseChallange.dll
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.pdb
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\EnhancedIfElseChallange.genruntimeconfig.cache
+C:\Users\emir7\source\repos\EnhancedIfElseChallange\EnhancedIfElseChallange\obj\Debug\net5.0\ref\EnhancedIfElseChallange.dll

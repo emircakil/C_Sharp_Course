@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.exe
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.deps.json
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.runtimeconfig.json
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.dll
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\bin\Debug\net5.0\StringExercise2.pdb
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.AssemblyInfo.cs
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.dll
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\refint\StringExercise2.dll
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.pdb
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\StringExercise2.genruntimeconfig.cache
+C:\Users\emir7\source\repos\StringExercise2\StringExercise2\obj\Debug\net5.0\ref\StringExercise2.dll

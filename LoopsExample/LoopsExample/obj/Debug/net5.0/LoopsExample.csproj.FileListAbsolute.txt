@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\bin\Debug\net5.0\LoopsExample.exe
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\bin\Debug\net5.0\LoopsExample.deps.json
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\bin\Debug\net5.0\LoopsExample.runtimeconfig.json
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\bin\Debug\net5.0\LoopsExample.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\bin\Debug\net5.0\LoopsExample.dll
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\bin\Debug\net5.0\LoopsExample.pdb
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.AssemblyInfo.cs
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.dll
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\refint\LoopsExample.dll
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.pdb
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\LoopsExample.genruntimeconfig.cache
+C:\Users\emir7\source\repos\LoopsExample\LoopsExample\obj\Debug\net5.0\ref\LoopsExample.dll

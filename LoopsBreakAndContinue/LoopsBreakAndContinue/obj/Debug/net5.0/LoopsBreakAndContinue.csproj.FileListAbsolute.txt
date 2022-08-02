@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\bin\Debug\net5.0\LoopsBreakAndContinue.exe
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\bin\Debug\net5.0\LoopsBreakAndContinue.deps.json
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\bin\Debug\net5.0\LoopsBreakAndContinue.runtimeconfig.json
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\bin\Debug\net5.0\LoopsBreakAndContinue.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\bin\Debug\net5.0\LoopsBreakAndContinue.dll
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\bin\Debug\net5.0\LoopsBreakAndContinue.pdb
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.AssemblyInfo.cs
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.dll
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\refint\LoopsBreakAndContinue.dll
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.pdb
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\LoopsBreakAndContinue.genruntimeconfig.cache
+C:\Users\emir7\source\repos\LoopsBreakAndContinue\LoopsBreakAndContinue\obj\Debug\net5.0\ref\LoopsBreakAndContinue.dll

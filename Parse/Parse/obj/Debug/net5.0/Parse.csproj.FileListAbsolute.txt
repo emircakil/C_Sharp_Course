@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\Parse\Parse\bin\Debug\net5.0\Parse.exe
+C:\Users\emir7\source\repos\Parse\Parse\bin\Debug\net5.0\Parse.deps.json
+C:\Users\emir7\source\repos\Parse\Parse\bin\Debug\net5.0\Parse.runtimeconfig.json
+C:\Users\emir7\source\repos\Parse\Parse\bin\Debug\net5.0\Parse.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\Parse\Parse\bin\Debug\net5.0\Parse.dll
+C:\Users\emir7\source\repos\Parse\Parse\bin\Debug\net5.0\Parse.pdb
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.AssemblyInfo.cs
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.dll
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\refint\Parse.dll
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.pdb
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\Parse.genruntimeconfig.cache
+C:\Users\emir7\source\repos\Parse\Parse\obj\Debug\net5.0\ref\Parse.dll

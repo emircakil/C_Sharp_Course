@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\Stack\Stack\bin\Debug\net5.0\Stack.exe
+C:\Users\emir7\source\repos\Stack\Stack\bin\Debug\net5.0\Stack.deps.json
+C:\Users\emir7\source\repos\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+C:\Users\emir7\source\repos\Stack\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\Stack\Stack\bin\Debug\net5.0\Stack.dll
+C:\Users\emir7\source\repos\Stack\Stack\bin\Debug\net5.0\Stack.pdb
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.dll
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\refint\Stack.dll
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.pdb
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
+C:\Users\emir7\source\repos\Stack\Stack\obj\Debug\net5.0\ref\Stack.dll

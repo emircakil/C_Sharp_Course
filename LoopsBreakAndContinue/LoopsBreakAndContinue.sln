@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoopsBreakAndContinue", "LoopsBreakAndContinue\LoopsBreakAndContinue.csproj", "{C8BE5DBB-00F2-4F3D-8981-EB4AF8B8633B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BE5DBB-00F2-4F3D-8981-EB4AF8B8633B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BE5DBB-00F2-4F3D-8981-EB4AF8B8633B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BE5DBB-00F2-4F3D-8981-EB4AF8B8633B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BE5DBB-00F2-4F3D-8981-EB4AF8B8633B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA0E3427-AAF7-422D-94A5-C77E801935B7}
+	EndGlobalSection
+EndGlobal

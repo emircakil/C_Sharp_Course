@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\bin\Debug\net5.0\Inhertiance.2.exe
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\bin\Debug\net5.0\Inhertiance.2.deps.json
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\bin\Debug\net5.0\Inhertiance.2.runtimeconfig.json
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\bin\Debug\net5.0\Inhertiance.2.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\bin\Debug\net5.0\Inhertiance.2.dll
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\bin\Debug\net5.0\Inhertiance.2.pdb
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.AssemblyInfo.cs
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.dll
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\refint\Inhertiance.2.dll
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.pdb
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\Inhertiance.2.genruntimeconfig.cache
+C:\Users\emir7\source\repos\Inhertiance.2\Inhertiance.2\obj\Debug\net5.0\ref\Inhertiance.2.dll
