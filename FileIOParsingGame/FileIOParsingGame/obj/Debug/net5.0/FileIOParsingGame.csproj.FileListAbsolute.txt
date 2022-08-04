@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\bin\Debug\net5.0\FileIOParsingGame.exe
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\bin\Debug\net5.0\FileIOParsingGame.deps.json
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\bin\Debug\net5.0\FileIOParsingGame.runtimeconfig.json
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\bin\Debug\net5.0\FileIOParsingGame.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\bin\Debug\net5.0\FileIOParsingGame.dll
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\bin\Debug\net5.0\FileIOParsingGame.pdb
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.AssemblyInfo.cs
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.dll
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\refint\FileIOParsingGame.dll
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.pdb
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\FileIOParsingGame.genruntimeconfig.cache
+C:\Users\emir7\source\repos\FileIOParsingGame\FileIOParsingGame\obj\Debug\net5.0\ref\FileIOParsingGame.dll

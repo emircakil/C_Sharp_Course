@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\bin\Debug\net5.0\IEnumerableExercise1.exe
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\bin\Debug\net5.0\IEnumerableExercise1.deps.json
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\bin\Debug\net5.0\IEnumerableExercise1.runtimeconfig.json
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\bin\Debug\net5.0\IEnumerableExercise1.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\bin\Debug\net5.0\IEnumerableExercise1.dll
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\bin\Debug\net5.0\IEnumerableExercise1.pdb
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.AssemblyInfo.cs
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.dll
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\refint\IEnumerableExercise1.dll
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.pdb
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\IEnumerableExercise1.genruntimeconfig.cache
+C:\Users\emir7\source\repos\IEnumerableExercise1\IEnumerableExercise1\obj\Debug\net5.0\ref\IEnumerableExercise1.dll

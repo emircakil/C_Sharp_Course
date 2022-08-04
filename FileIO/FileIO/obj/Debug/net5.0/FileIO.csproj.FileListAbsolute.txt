@@ -1,0 +1,16 @@
+C:\Users\emir7\source\repos\FileIO\FileIO\bin\Debug\net5.0\FileIO.exe
+C:\Users\emir7\source\repos\FileIO\FileIO\bin\Debug\net5.0\FileIO.deps.json
+C:\Users\emir7\source\repos\FileIO\FileIO\bin\Debug\net5.0\FileIO.runtimeconfig.json
+C:\Users\emir7\source\repos\FileIO\FileIO\bin\Debug\net5.0\FileIO.runtimeconfig.dev.json
+C:\Users\emir7\source\repos\FileIO\FileIO\bin\Debug\net5.0\FileIO.dll
+C:\Users\emir7\source\repos\FileIO\FileIO\bin\Debug\net5.0\FileIO.pdb
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.csproj.AssemblyReference.cache
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.AssemblyInfoInputs.cache
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.AssemblyInfo.cs
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.csproj.CoreCompileInputs.cache
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.dll
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\refint\FileIO.dll
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.pdb
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\FileIO.genruntimeconfig.cache
+C:\Users\emir7\source\repos\FileIO\FileIO\obj\Debug\net5.0\ref\FileIO.dll
